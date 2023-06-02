@@ -1,1 +1,2 @@
-# My-Unity-Project
+# MyUnityGame
+New Unity Game
